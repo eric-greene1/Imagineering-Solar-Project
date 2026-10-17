@@ -1,7 +1,7 @@
 # Meeting Logs
 
 ## Meeting one
-## 10/16/2026
+### 10/16/2026
 
 For our first meeting, we agreed upon the trajectory of our project and decided
 on two self-cleaning models for our solar panels.
